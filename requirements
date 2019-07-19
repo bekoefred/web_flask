@@ -1,0 +1,6 @@
+gunicorn==19.9.0
+javascript
+css
+html5
+python3
+flask==1.1.1
